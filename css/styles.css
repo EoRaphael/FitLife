@@ -176,7 +176,6 @@ main {
     font-size: 5px;
     font-family: inherit;
 }
-
 .form-group input:focus {
     outline: none;
     border-color: var(--primary-color);
